@@ -1,2 +1,2 @@
-# My-1st-try
+# My-1st-Try
 I am using this repo for GitHub training
